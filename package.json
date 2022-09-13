@@ -1,0 +1,39 @@
+{
+  "name": "@bedrock/data-integrity-context",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bedrock loader for Data Integrity context",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbazaar/bedrock-data-integrity-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-data-integrity-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-data-integrity-context#readme",
+  "dependencies": {
+    "@digitalbazaar/data-integrity-context": "^1.0.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^4.0.0",
+    "bedrock-jsonld-document-loader": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-digitalbazaar": "^4.1.0",
+    "eslint-plugin-jsdoc": "^39.3.6"
+  }
+}
