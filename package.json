@@ -25,7 +25,6 @@
     "@digitalbazaar/data-integrity-context": "^1.0.0"
   },
   "peerDependencies": {
-    "@bedrock/core": "^6.0.0",
     "@bedrock/jsonld-document-loader": "^3.0.0"
   },
   "engines": {
