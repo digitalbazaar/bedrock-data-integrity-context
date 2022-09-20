@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digitalbazaar/bedrock-data-integrity-context.git"
+    "url": "https://github.com/digitalbazaar/bedrock-data-integrity-context.git"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
