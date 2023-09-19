@@ -1,6 +1,6 @@
 # bedrock-data-integrity-context CHANGELOG
 
-## 2.0.0 - 2023-09-xx
+## 2.0.0 - 2023-09-19
 
 ### Changed
 - **BREAKING**: Drop support for Node.js < 18.
