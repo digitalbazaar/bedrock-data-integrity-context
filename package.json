@@ -25,10 +25,10 @@
     "@digitalbazaar/data-integrity-context": "^1.0.0"
   },
   "peerDependencies": {
-    "@bedrock/jsonld-document-loader": "^3.0.0"
+    "@bedrock/jsonld-document-loader": "^4.0.0"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
   },
   "devDependencies": {
     "eslint": "^8.23.1",
