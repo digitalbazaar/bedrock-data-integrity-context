@@ -3,6 +3,7 @@ module.exports = {
     node: true
   },
   extends: [
-    'digitalbazaar'
+    'digitalbazaar',
+    'digitalbazaar/module'
   ]
 };
