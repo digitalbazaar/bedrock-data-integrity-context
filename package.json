@@ -5,7 +5,7 @@
   "description": "Bedrock loader for Data Integrity context",
   "main": "./lib/index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint --ext .cjs,.js ."
   },
   "repository": {
     "type": "git",
