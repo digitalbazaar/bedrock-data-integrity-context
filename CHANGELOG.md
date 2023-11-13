@@ -1,6 +1,6 @@
 # bedrock-data-integrity-context CHANGELOG
 
-## 3.0.0 - 2023-11-TBD
+## 3.0.0 - 2023-11-13
 
 ### Changed
 - **BREAKING**: Use `@digitalbazaar/data-integrity-context` v2.0, uses
