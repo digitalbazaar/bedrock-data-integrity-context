@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-data-integrity-context#readme",
   "dependencies": {
-    "@digitalbazaar/data-integrity-context": "digitalbazaar/data-integrity-context#drop-support-for-node-16"
+    "@digitalbazaar/data-integrity-context": "^2.0.0"
   },
   "peerDependencies": {
     "@bedrock/jsonld-document-loader": "^4.0.0"
