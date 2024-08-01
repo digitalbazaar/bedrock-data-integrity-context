@@ -1,5 +1,13 @@
 # bedrock-data-integrity-context CHANGELOG
 
+## 4.0.0 - 2024-08-xx
+
+### Changed
+- Update dev dependencies.
+- **BREAKING**: Update peer dependencies.
+  - `@bedrock/jsonld-document-loader@5.1.0`
+- Use `addDocuments` function.
+
 ## 3.0.0 - 2023-11-13
 
 ### Changed
