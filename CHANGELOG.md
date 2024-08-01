@@ -1,5 +1,11 @@
 # bedrock-data-integrity-context CHANGELOG
 
+## 4.0.1 - 2024-08-xx
+
+### Changed
+- Add tests.
+- Add `@bedrock/core` peer dep.
+
 ## 4.0.0 - 2024-08-01
 
 ### Changed
