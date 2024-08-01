@@ -1,6 +1,6 @@
 # bedrock-data-integrity-context CHANGELOG
 
-## 4.0.1 - 2024-08-xx
+## 4.0.1 - 2024-08-01
 
 ### Changed
 - Add tests.
