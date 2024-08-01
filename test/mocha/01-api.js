@@ -3,8 +3,6 @@
  */
 import {documentLoader} from '@bedrock/jsonld-document-loader';
 
-console.log('DL', {documentLoader});
-
 describe('bedrock-data-integrity-context', () => {
   it('sets up contexts properly', async () => {
     const testContexts = [
