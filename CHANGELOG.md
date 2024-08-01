@@ -1,6 +1,6 @@
 # bedrock-data-integrity-context CHANGELOG
 
-## 4.0.2 - 2024-08-xx
+## 4.0.2 - 2024-08-01
 
 ### Changed
 - Remove `@bedrock/core` peer dep.
