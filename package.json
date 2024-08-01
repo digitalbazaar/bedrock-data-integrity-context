@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/data-integrity-context",
-  "version": "4.0.2",
+  "version": "4.0.3-0",
   "type": "module",
   "description": "Bedrock loader for Data Integrity context",
   "license": "SEE LICENSE IN LICENSE.md",
