@@ -1,5 +1,10 @@
 # bedrock-data-integrity-context CHANGELOG
 
+## 4.0.3 - 2024-08-xx
+
+### Fixed
+- Add package `files` field.
+
 ## 4.0.2 - 2024-08-01
 
 ### Changed
